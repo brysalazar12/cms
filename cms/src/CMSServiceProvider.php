@@ -12,7 +12,6 @@ class CMSServiceProvider extends ServiceProvider
 {
 	public function boot()
 	{
-		dd('test');
 	}
 
 	public function register()
