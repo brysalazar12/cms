@@ -17,7 +17,6 @@ class CMSServiceProvider extends ServiceProvider
 
 	public function register()
 	{
-		$this->app->register($provider);
 	}
 
 }
