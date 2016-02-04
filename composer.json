@@ -1,0 +1,15 @@
+{
+    "name": "brysalazar12/cms",
+    "description": "Simple CMS for laravel",
+    "keywords": ["cms", "laravel"],
+    "license": "MIT",
+    "type": "project",
+	"require":{
+		"artem-schander/l5-modular": "dev-master"
+	},
+    "autoload": {
+        "psr-4": {
+            "Brysalazar12\\Cms\\": "packages/brysalazar12/cms/src"
+        }
+    }
+}
