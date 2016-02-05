@@ -16,6 +16,7 @@ class CMSServiceProvider extends ServiceProvider
 
 	public function register()
 	{
+		$this->register(\ArtemSchander\L5Modular\ModuleServiceProvider::class);
 	}
 
 }
