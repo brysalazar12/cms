@@ -1,2 +1,2 @@
-# cms
+# CMS
 CMS for laravel
